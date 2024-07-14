@@ -10,7 +10,7 @@ public class Sum {
 	}
 	public void krish()
 	{
-		System.out.println("this application was created by the mohns tead lead");
+		System.out.println("the application was created by the mohns tead lead");
 	}
 	public static void main(String[] args) {
 		Sum nm=new Sum();
